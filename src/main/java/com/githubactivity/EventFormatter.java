@@ -1,3 +1,5 @@
+package com.githubactivity;
+
 import com.fasterxml.jackson.databind.JsonNode;
 import org.fusesource.jansi.Ansi;
 import static org.fusesource.jansi.Ansi.Color.*;

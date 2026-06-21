@@ -1,3 +1,5 @@
+package com.githubactivity;
+
 import org.fusesource.jansi.AnsiConsole;
 
 import java.io.IOException;
