@@ -40,8 +40,8 @@ Any other event type falls back to a generic `<Type> in user/repo` line.
 Clone the repository and move into it:
 
 ```bash
-git clone <your-repo-url>
-cd github-activity
+git clone https://github.com/abdrahmanayach/java-github-activity.git
+cd java-github-activity
 ```
 
 ### Run with Maven
